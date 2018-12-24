@@ -5,18 +5,19 @@
 html, body, h1 {
   margin: 0;
   padding: 0;
+  color: #00245f;
 }
 
 body {
-  background-color: #f4f4f4;
+  background-color: black;
   font-family: 'Open Sans', sans-serif;
 }
 
 h2 {
   
-  font-weight: 500;
+  font-weight: 1000;
   
-  letter-spacing: -1.2px;
+  letter-spacing: -1.0px;
 }
 
 a {
@@ -42,7 +43,7 @@ a {
 }
 
 .section-content {
-  color: #3a3a3a;
+  color: gainsboro;
   float: left;
   width: 340px;
 }
@@ -72,9 +73,9 @@ a {
 }
 
 .btn-secondary {
-  background: #ffffff;
+  background: #darkblue;
   border: 1px solid #e6e6e6;
-  color: #3372df;
+  color: paleturquoise;
   font-family: 'Open Sans', sans-serif;
   font-size: 13px;
   font-weight: 600;
@@ -92,14 +93,14 @@ a {
  */
 
 header {
-  background-color: #fff;
+  background-color: floralwhite;
   padding: 25px 0;
 }
 
 .title {
   float: left;
   font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
-  font-size: 17px;
+  font-size: 21px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
 }
@@ -233,7 +234,7 @@ header {
 
 .section-tabs .places a,
 .section-tabs .places a:visited {
-  color: #3372df; 
+  color: #7572df;
 }
 
 
